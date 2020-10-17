@@ -1,4 +1,4 @@
-,id,date,price,bedrooms,bathrooms,sqft_living,sqft_lot,floors,waterfront,view,condition,grade,sqft_above,sqft_basement,yr_built,yr_renovated,zipcode,lat,long,sqft_living15,sqft_lot15,zipcode_pop,num_homes_in_zipcode,hot_market_score,price_zip_mean
+,id,date,price,bedrooms,bathrooms,sqft_living,sqft_lot,floors,waterfront,view,condition,grade,sqft_above,sqft_basement,yr_built,yr_renovated,zipcode,lat,long,sqft_living15,sqft_lot15,zipcode_pop,listings_in_zip,hot_market_score,price_zip_mean
 0,7129300520,10/13/2014,221900.0,3,1.0,1180,5650,1.0,,0.0,3,7,1180,0.0,1955,0.0,98178,47.5112,-122.257,1340,5650,25363,262,10.3,310612.75572519086
 1,4060000240,6/23/2014,205425.0,2,1.0,880,6780,1.0,0.0,0.0,4,6,880,0.0,1945,0.0,98178,47.5009,-122.24799999999999,1190,6780,25363,262,10.3,310612.75572519086
 2,4058801670,7/17/2014,445000.0,3,2.25,2100,8201,1.0,,2.0,3,8,1620,480.0,1967,0.0,98178,47.5091,-122.244,2660,8712,25363,262,10.3,310612.75572519086
